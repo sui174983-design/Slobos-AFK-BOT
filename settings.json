@@ -22,7 +22,7 @@
       "password": "Slobos"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
